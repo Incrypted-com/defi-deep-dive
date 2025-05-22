@@ -19,18 +19,24 @@ All materials are free and openly licensed.
 
 Course structure may evolve during production to better reflect community needs and protocol updates.
 
+Each module will include both text and video lessons and finish with a quiz; the course itself ends with a final assessment that mints an NFT certificate for successful learners.
+
+
 - Module 1: Introduction to Ethereum  
   (consensus, accounts, gas, L1 vs L2, wallets, etc.)
-- Module 2: Onchain Primitives  
+- Module 2: On-chain Primitives  
   (tokens and cryptocurrencies, stablecoins, liquidity, bridges, oracles, etc.)
 - Module 3: DeFi Mechanics & Concepts  
   (AMMs, lending/borrowing, staking, yield farming, LPs, etc.)
 - Module 4: Protocols
   (How to use Uniswap, Aave, Lido, EtherFi, etc.)
-- Module 5: Security, Risks & Best Practices  
+
+- Module 5 (optional): Security, Risks & Best Practices  
   (scams, approvals, MEV, frontend risks, toolkits)
 - Module 6 (optional): Beyond Ethereum  
   (rollups, cross-chain DeFi, EVM-compatibility — to broaden context)
+
+Because the course is modular, it can be logically expanded with additional blocks—for example, cross-chain interaction, a deeper dive into Layer-2 roll-ups, or advanced DeFi strategy modules. These extensions can be delivered as separate, independently funded stages if community feedback and ecosystem demand justify further development. The modules funded by the initial grant will already form a complete, self-contained learning path on their own.
 
 ## 🗂 Repository Layout
 
